@@ -1,0 +1,1 @@
+-- g) O nome do produto, o nome do fornecedor e o telefone do fornecedor dos produtos com preço acima de 20 reais e que tenham mais de 1500 unidades em estoque;

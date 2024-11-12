@@ -1,0 +1,1 @@
+-- h) O nome do cliente, a data do pedido e o valor total do pedido para pedidos feitos entre junho e julho de 2003;
